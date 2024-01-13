@@ -11,6 +11,6 @@
 foi a <strong><b>@media</b></strong> pois ela faz com que o site se adapte tanto em tela pequenas e grandes, como nos notebook, os celulares e nos desktop. Deixando um site responsivo foi esse projeto que eu criei e estou demostrando ele nas duas telas no notebook e celular. </p>
 <br>
 
-<img src=" "/>
+<img src="https://raw.githubusercontent.com/Valssiria/we-care/main/Design%20we-care.png"/>
 
 <h3  align="center" > Clique aqui no Link do projeto <a href="#">We-Care</a></h3>
